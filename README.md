@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmacocco99@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabimac03)
 
-### Desarrollador Fullstack | Ciberseguridad | 🇦🇷 Mendoza, Argentina
+### Desarrollador De Software | Estudiante | 🇦🇷 Mendoza, Argentina
 
 </div>
 
