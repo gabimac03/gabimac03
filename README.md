@@ -15,7 +15,7 @@
 
 ## 🚀 **Perfil Profesional**
 
-Estudiante avanzado de **Desarrollo de Software con orientación en Ciberseguridad** (Universidad Nacional de Cuyo - ITU). Apasionado por la **programación**, la **seguridad informática** y la **computación en la nube**. Cuento con experiencia práctica en desarrollo de software, redes, bases de datos, virtualización y despliegue con Kubernetes.
+Estudiante avanzado de **Desarrollo de Software** (Universidad Nacional de Cuyo - ITU). Apasionado por la **programación**, la **seguridad informática** y la **computación en la nube**. Cuento con experiencia práctica en desarrollo de software, redes, bases de datos, virtualización y despliegue con Kubernetes.
 
 Busco integrarme a un equipo profesional donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar valor mediante **soluciones innovadoras y seguras**.
 
@@ -37,7 +37,7 @@ Busco integrarme a un equipo profesional donde pueda aplicar mis conocimientos, 
 - 🌐 Cisco – Conceptos Básicos en Redes *(en curso)*
 - ☁️ AWS Academy – Fundamentos de la Nube *(completado)*
 - 🔧 AWS Academy – Cloud Operations *(en curso)*
-- 🛡️ UPATECO – Curso de Ciberseguridad *(en curso)*
+- 🛡️ UPATECO – Curso de Ciberseguridad *(completado)*
 
 ---
 
@@ -143,13 +143,18 @@ Busco integrarme a un equipo profesional donde pueda aplicar mis conocimientos, 
 
 ## 📫 **Contacto**
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/angel-gabriel-macocco-a5488816b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabrielmacocco99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/gabimac03" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-💼 [LinkedIn](https://www.linkedin.com/in/angelmacocco)  
-📧 [angelmacocco@gmail.com](mailto:angelmacocco@gmail.com)  
-💻 [GitHub](https://github.com/gabimac03)
-
-</div>
 
 ---
 
